@@ -37,5 +37,5 @@ Small stuff: any two members. Direction: evidence first, then majority; the diss
 Committing this file is signing it.
 
 | Name | GitHub | Date |
-|---|---|---|
+|Juli Chaphidze|https://github.com/Juliieett|29.09.2026|
 | | | |
