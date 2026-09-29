@@ -39,4 +39,4 @@ Committing this file is signing it.
 | Name | GitHub | Date |
 |Juli Chaphidze|https://github.com/Juliieett|29.09.2026|
 |Davit Jincharadze|https://github.com/zidhartha |29.09.2026|
-|Sandro Iobidze|https://github.com/P4ndro|29.09.2026|
+|Sandro Iobidze|https://github.com/P4ndro|29.09.2026|Giorgi Jincharadze|https://github.com/Giorgi1207|29.09.2026|
