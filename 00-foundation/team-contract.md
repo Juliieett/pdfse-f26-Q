@@ -13,7 +13,7 @@ Accountabilities below say who makes sure something happens. They do not say who
 |---|---|---|---|
 | [Juli Chaphidze] | @[Juliieett] | Discovery: interview quality, synthesis | [name, connection to a pooled problem] |
 | [Davit Jincharadze] | @[zidhartha] | Build: repo, code, deployment | [name, connection] |
-| [name] | @[user] | Delivery: deadlines, submissions, milestone tags | [name, connection] |
+| [Sandro Iobidze] | @[P4ndro] | Delivery: deadlines, submissions, milestone tags | [name, connection] |
 | [if 4] | @[user] | [double an accountability, say which part] | [name, connection] |
 
 Teams of 2: each person carries one and a half accountabilities. Write which.
@@ -39,3 +39,4 @@ Committing this file is signing it.
 | Name | GitHub | Date |
 |Juli Chaphidze|https://github.com/Juliieett|29.09.2026|
 |Davit Jincharadze|https://github.com/zidhartha |29.09.2026|
+|Sandro Iobidze|https://github.com/P4ndro|29.09.2026|
