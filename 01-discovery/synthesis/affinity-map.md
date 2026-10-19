@@ -1,6 +1,6 @@
-# Affinity Map — Nergi
+# Affinity Map
 
-**File:** `01-discovery/synthesis/affinity-map.md`
+Quotes below are from logs whose prediction check is established. Logs 04, 05, and 06 say the interview is not established, so their answers are not in a cluster.
 
 ## Interview sources
 
@@ -124,7 +124,6 @@ Chognari-1 received conflicting explanations about whether damaged mandarin leav
 “I had no way to know what I was buying until nothing grew fruit.”
 
 Manana's experience suggests that buyers may lack important information about seedlings before purchasing them. Further interviews should establish how common this problem is and whether it affects other crops.
-
 ### Local availability of planting material — Interview 10
 
 > „მხოლოდ მას ჰქონდა“

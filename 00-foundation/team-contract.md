@@ -1,7 +1,7 @@
 # Team Contract
 
-**Team name:** [name]
-**Date:** [date] · CS-PD Fall 2026
+**Team name:** Q
+**Date:** 29.09.2026 · CS-PD Fall 2026
 
 ## The rule (pre-written, sign under it)
 > No member may answer a question about the product with "that is not my role."
@@ -11,18 +11,19 @@ Accountabilities below say who makes sure something happens. They do not say who
 ## Members and primary accountabilities
 | Name | GitHub | Primary accountability | First outreach target (a real person) |
 |---|---|---|---|
-| [Juli Chaphidze] | @[Juliieett] | Discovery: interview quality, synthesis | [name, connection to a pooled problem] |
-| [Davit Jincharadze] | @[zidhartha] | Build: repo, code, deployment | [name, connection] |
-| [Sandro Iobidze] | @[P4ndro] | Delivery: deadlines, submissions, milestone tags | [name, connection] |
-| [Giorgi Jincharadze] | @[Giorgi1207] | [Discovery with Juli:Outreach and inteview logging] | [name, connection] |
+| Juli Chaphidze | @Juliieett | Discovery: interview quality, synthesis | Manana, kiwi grower in Shukhuti. Juli logged log 10. |
+| Davit Jincharadze | @zidhartha | Build: repo, code, deployment | Nino, the neighbor who planted strawberries. Davit asked log 01. |
+| Sandro Iobidze | @P4ndro | Delivery: deadlines, submissions, milestone tags | The mandarin grower in Chognari. Sandro asked log 07. |
+| Giorgi Jincharadze | @Giorgi1207 | Discovery with Juli: outreach and interview logging | Manana, kiwi grower in Shukhuti. Giorgi asked log 10. |
 
 Teams of 2: each person carries one and a half accountabilities. Write which.
 
 ## How we work
-- **Channel:** [the specific group, by name]
-- **Standup:** [days and time, 15 minutes max]
-- **Response window:** messages acknowledged within [X] hours between [start] and [end]
-- **Silent teammate with a deadline near:** [who follows up, after how long, then what]
+- **Channel:** The team repo, `Juliieett/pdfse-f26-Q`. 
+- **Standup:** Not recorded in the repo. Sandro follows a missed deadline. See the next line.
+- **Response window:** Not recorded in the repo.
+- **Silent teammate with a deadline near:** Sandro, who owns delivery and the milestone tag, writes in the repo within 24 hours, then raises it at the next lab if there is still no reply.
+- **How we track who did what:** The asker and the logger are named on every interview log. Every line in `DECISIONS.md` has an owner. Each person's own writing is in `members/<github-username>/`. Outreach names are in `01-discovery/outreach-tracker.md`.
 - **Demo-ready:** any member can screen-share the current product state in any lab, on 2 minutes notice
 
 ## How we decide

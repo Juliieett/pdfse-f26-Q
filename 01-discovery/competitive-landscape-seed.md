@@ -1,74 +1,24 @@
-# Competitive Landscape Seed — Nergi
+# Competitive Landscape Seed
 
-## Purpose
+Filled only from the crop logs. Log 04 is not in this table. Its prediction check says the interview is not established.
 
-Identify the existing alternatives farmers use when making crop-related decisions. This initial landscape is based on interview evidence and focuses on current workarounds, their limitations, and opportunities for further investigation.
+## What interviewees actually use today
 
-## 1. Other farmers and neighbors
+| Workaround or alternative (as they named it) | The job it does for them | Logs that mention it | What it fails at, in their words (quote + log number) |
+|---|---|---|---|
+| Neighbors on the street, including Zurab | Someone nearby to ask before planting, and again when the leaves look wrong | 01, 07 | "მეზობლებმა მხოლოდ ის მითხრეს, რომ რთულია და ლპება." / "The neighbors only said it's hard, they rot." (01). "ზურაბმა თქვა, ყინვააო. მერე სხვამ თქვა, არა, სოკოაო ან ობიაო. ახლაც არ ვიცი რომელია." / "Zurab said it's the frost. Then another guy said no, it's fungus. I still don't know which one." (07) |
+| The agro shop seller | Buy the seedlings and get the advice in the same place | 01, 07 | "ყველა სხვადასხვას მეუბნება." / "Everyone says something different." (01). The seller told her to water a lot, and she suspects that was wrong (01). "ნერგს შეგიკვეთავო, ოღონდ არ ვიცი აქ რომელი გაიხარებსო." / "He said he can order seedlings, but he doesn't know which kind will hold here." (07) |
+| YouTube | Watch someone grow the crop | 01, 07 | "ვიდეოები უმეტესად პოლონეთიდან ან თურქეთიდანაა, ნიადაგიც და ამინდიც სხვაა." / "The videos are mostly from Poland or Turkey, the soil and weather are different." (01). He watches Turkish YouTube he half understands (07). She did not save the video she used (01). |
+| A cousin in Telavi who grows grapes | A relative to call when nobody on the street has grown it | 01 | "ყველა სხვადასხვას მეუბნება." / "Everyone says something different." (01) |
+| A Facebook gardeners group | Ask people who might have grown it | 01 | "ვერ ვხვდები, ვინ იცის." / "I can't tell who knows." (01) |
+| The only plant seller, a man with a truck | The only place to buy the plants | 10 | "მხოლოდ მას ჰქონდა" / "He was the only one who had them." (10). "შეფარდებებზე არავის უსაუბრია ჩვენთან" / "Nobody told us the ratio." (10) |
+| A second seller, a woman who explained the male and female plants | Buy again after the first plants did not fruit | 10 | "ორი წელი ტყუილად ველოდებოდით" / "We waited two years for nothing." (10). That wait is the first batch. The log does not say the second seller failed. |
 
-**Evidence:** Log 07 — Chognari-1
+## The strongest incumbent
 
-**Current workaround:** The farmer asks his neighbor Zurab for advice about problems affecting his mandarin trees.
+The person who sells the plants. Nino got the advice from the agro shop that sold her the seedlings (01). The Chognari grower got a different answer from the shop than from Zurab, about the same photo of dead leaves (07). Manana could buy kiwi from only one seller, and he did not tell her the ratio (10). Neighbors are close behind: they are in logs 01 and 07, and neither neighbor had grown the new crop.
 
-**Observed limitation:** Zurab attributed the damaged leaves to frost, while the agro shop suggested fungus or mold. The farmer remained unsure which explanation was correct.
+## Alternatives nobody mentioned
 
-**Potential opportunity:** Help farmers verify conflicting advice before deciding what action to take.
-
-## 2. Agricultural supply shops
-
-**Evidence:** Log 07 — Chognari-1
-
-**Current workaround:** The farmer visits a nearby agro shop for advice about plants and planting materials.
-
-**Observed limitation:** The explanation about the damaged mandarin leaves conflicted with the neighbor's explanation. The shop could also order grapefruit seedlings but could not say which variety would grow successfully locally.
-
-**Potential opportunity:** Provide more specific, locally relevant information to support crop and planting-material decisions.
-
-## 3. Online videos
-
-**Evidence:** Log 07 — Chognari-1
-
-**Current workaround:** The farmer watches Turkish YouTube videos to learn about growing crops.
-
-**Observed limitation:** He understands only part of the information, making it difficult to confidently apply the advice.
-
-**Potential opportunity:** Make relevant agricultural information easier to understand and apply locally.
-
-## 4. Plant sellers
-
-**Evidence:** Log 10 — Manana
-
-**Current workaround:** The farmer buys kiwi plants from available sellers.
-
-**Observed limitation:** The first seller did not explain the male/female plant ratio. The plants did not produce fruit, and the family waited two years without the expected result. A second seller explained the ratio when selling another batch.
-
-**Potential opportunity:** Help farmers understand plant requirements and know what to ask or verify before purchasing seedlings.
-
-## 5. Growing familiar crops
-
-**Evidence:** Log 04 — Avto
-
-**Current workaround:** The farmer mainly grows crops he already knows how to manage.
-
-**Observed limitation:** He is uncertain whether a new crop would succeed on his land and does not fully trust general online advice for his specific situation.
-
-**Potential opportunity:** Help farmers assess what they need to verify before experimenting with unfamiliar crops.
-
-## 6. What the interviews suggest
-
-The interviews suggest that farmers already use several ways to obtain information: personal contacts, agricultural shops, online videos, and plant sellers. These alternatives are accessible, but the information may be incomplete, difficult to understand, or insufficiently specific to the farmer's situation.
-
-Nergi should not assume that farmers need another source of information. It must establish whether existing alternatives fail to solve a frequent and costly problem.
-
-## 7. Questions for further research
-
-- Which sources do farmers trust most, and why?
-- How do farmers verify advice when two sources disagree?
-- Do farmers pay for agricultural advice, soil testing, or other support?
-- What information do farmers need before buying seedlings?
-- Would farmers change their current behavior to access more reliable information?
-- Is the main problem crop suitability, plant quality, disease diagnosis, or crop profitability?
-
-## 8. Current conclusion
-
-The initial competitive landscape consists of the workarounds identified in Logs 04, 07, and 10. These interviews do not yet establish the availability of dedicated agricultural apps, soil-testing services, or professional advisory services in the target area. Those alternatives require further research before Nergi can claim a competitive advantage.
+- A soil test, an agronomist, or a fertilizer decision. That was the Week 4 line in `DECISIONS.md`. None of logs 01, 07, or 10 name one.
+- An app or a phone tool. Nino said "რთული ტელეფონის რამეები არ მომიტანოთ." / "Don't bring me a complicated phone thing." (01). She was refusing one, not naming one she uses.
