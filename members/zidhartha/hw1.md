@@ -11,36 +11,39 @@ Every real interview you took part in. At least 2 where you were the **asker**.
 
 | Log file (link) | My role (asked / logged / both) | What this interview changed, in one sentence |
 |---|---|---|
-| | | |
-| | | |
+| [01-neighbor-nino.md](../../01-discovery/interview-logs/01-neighbor-nino.md) | asked | She spent about 800 lari on strawberries, a third of the plants died, and everyone she asked said something different. |
+| [02-homeowner-irakli.md](../../01-discovery/interview-logs/02-homeowner-irakli.md) | asked | He paid 80 lari, then 120 to a second plumber, and did not argue because he needed the water back. |
+| [03-student-ana.md](../../01-discovery/interview-logs/03-student-ana.md) | asked | The flat search took almost four weeks of evenings, and she nearly sent 100 lari to hold a flat she had not seen. |
+| [08-tenant-saburtalo.md](../../01-discovery/interview-logs/08-tenant-saburtalo.md) | logged | She paid 50 after a quote of 30 because arguing in her own kitchen felt worse than 20 lari. |
+| [09-student-zugdidi.md](../../01-discovery/interview-logs/09-student-zugdidi.md) | logged | The search took almost three weeks and 15 calls, and 100 lari of deposit was gone. |
 
 **The quote I heard myself that mattered most, with its log number:**
 
-> ""
+> "გავბრაზდი, მაგრამ არ ვიდავე, წყალი მჭირდებოდა." / "I was angry, but I didn't argue, I needed the water back." (02)
 
 **One moment I broke the Mom Test, and what I asked instead next time** (name the log):
 
-No real interview is in `01-discovery/interview-logs/` yet. The only file there is an empty practice log, and practice does not count. This section stays empty until two logs exist where Asker is DJ.
+In log 01 I asked about selling, and only then did she say selling is a headache she already knows. In log 02 I asked what the plumber had quoted and what she actually paid: he had said about 50 lari, then charged 80.
 
 ## 2. Pattern journal, Weeks 1 to 4
 
-Copied from `members/zidhartha/pattern-journal.md`. Weeks 3 and 4 are not in that file yet.
+Copied from `members/zidhartha/pattern-journal.md`.
 
 ### Week 1 · Act like an owner, not a role
 
-I wrote my three problem statements in `00-foundation/problem-pool.md` from people I watched: Levani's mother searching for a tutor, a Wolt courier waiting on an order marked ready, and a neighbor whose mechanic charged more than the quote. That is discovery work, which is Juli's accountability, not mine. I did it because the pool could not move until each of us put in observations. `00-foundation/problem-pool.md`
+My lane is build. The pool was stuck until each of us put in observations, so I wrote my three statements anyway: Levani's mother searching for a tutor, a Wolt courier waiting on an order marked ready, and a neighbor whose mechanic charged more than the quote. Hack: I typed them straight into the repo in the WHO / STRUGGLE / COST shape, so nobody had to copy them out of a chat later. `00-foundation/problem-pool.md`
 
 ### Week 2 · Evidence over opinion
 
-I scored those three problems in `00-foundation/four-filters-scorecard.md` from what I saw, not from which story sounded more like a product. The tutor search scored 7 because of the 9 calls and the 150 lari trial. The mechanic case scored 6 because the quote was 200 lari and the bill was 340. The courier case died on reach: I cannot name him or message him this week, so filter 2 is 0. The pick line is drafted at the bottom of the scorecard. `00-foundation/four-filters-scorecard.md`
+I scored my three problems from what I had seen, not from which story sounded more like a product. The tutor search scored 7 (9 calls and a 150 lari trial). The mechanic case scored 6 (quoted 200 lari, paid 340). Outside my lane: I made the pick call in discovery, which is Juli's accountability. Hack: I scored reach first and dropped the courier, because I cannot name him, before anyone booked an interview about him. `00-foundation/four-filters-scorecard.md`
 
 ### Week 3 · Kill your favorite idea
 
-Not written yet. There is no prediction verdict in `DECISIONS.md` and no real log to link.
+The tutor search was the pick I had scored. The team reopened it. I left that line in `DECISIONS.md` and wrote a new line under it instead of editing the old one. The interviews then moved to three problems: a new crop, a repairman who does not show, and an out-of-town student looking for a flat. Hack: one new line at the bottom, so the killed pick and the reopen are both still visible. `DECISIONS.md`
 
 ### Week 4 · The prototype is the conversation
 
-Not written yet. `02-design/prototype-plan.md` does not exist, and there is no interview log to link.
+I asked three interviews myself, outside the build lane: the neighbor planting strawberries, the homeowner and the plumber, and the first-year looking for a flat. I also logged the Saburtalo tenant and the Zugdidi student. The test was the conversation, not a prototype: she could not tell whose advice to trust, he did not argue about the price because he needed the water back, and the student nearly sent 100 lari for a flat she had not seen. Hack: two of them were by phone, and I put the Georgian quotes in the log the same day, with the English beside them, before the wording faded. `01-discovery/interview-logs/01-neighbor-nino.md` `01-discovery/interview-logs/02-homeowner-irakli.md` `01-discovery/interview-logs/03-student-ana.md`
 
 ## 3. My DECISIONS.md citations
 
@@ -53,7 +56,7 @@ Not written yet. `02-design/prototype-plan.md` does not exist, and there is no i
 
 **Before you upload, check**
 
-- [ ] 2 or more rows say "asked" or "both", and each links a real log in `01-discovery/interview-logs/`.
+- [x] 2 or more rows say "asked" or "both", and each links a real log in `01-discovery/interview-logs/`.
 - [ ] Four journal entries, each with a link. The commit history shows they were written across the weeks, not tonight.
 - [x] Every DECISIONS.md line is copied word for word, and the owner or evidence on it connects to you.
 - [ ] Committed from your own GitHub account. Uploaded to the LMS before the deadline.
