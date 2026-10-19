@@ -1,77 +1,72 @@
-# Patterns Analysis — Nergi
+# Patterns Analysis — Week 4
 
-**File:** `01-discovery/synthesis/patterns-analysis.md`
+## Pattern 1: Farmers struggle to find advice that fits their local conditions
 
-## Strongest pattern
+**Evidence**
+- **Log 04 — Avto:** “I want to plant a new crop, but I don't know how well it will do on my land.”
+- **Log 04 — Avto:** “There is information online, but not every piece of advice suits my land.”
+- **Log 07 — Chognari-1:** The seller could order grapefruit seedlings but could not say which variety would grow successfully in the area.
+- **Log 07 — Chognari-1:** Different people gave conflicting explanations for damaged mandarin trees.
 
-Farmers may make crop-related decisions without reliable, locally relevant information, exposing them to financial losses and wasted time.
+**Five whys**
+1. Why do farmers hesitate when making crop decisions? They are unsure whether a crop or treatment will work in their situation.
+2. Why are they unsure? The advice they receive does not always address their land or local growing conditions.
+3. Why doesn't the advice address those conditions? Their sources may provide general guidance or personal opinions rather than locally relevant recommendations.
+4. Why do they depend on those sources? They have limited evidence to compare before making a decision.
+5. Why is this a problem? They cannot confidently assess a recommendation before acting on it.
 
-Evidence comes from three interviews:
+**Root-cause hypothesis:** Farmers may lack accessible, trustworthy guidance that accounts for local growing conditions.
 
-- **Avto:** Unsure whether a new crop would succeed on his land; says online advice does not always apply to his land.
-- **Chognari-1:** Received conflicting explanations about damaged mandarin trees and could not determine the cause. He also could not find a local grapefruit grower he knew of.
-- **Manana:** Bought kiwi plants without understanding the male/female ratio and waited two years without the expected result.
+**What remains unproven:** Whether farmers would trust a digital tool more than experienced local farmers or agricultural specialists.
 
-## Five Whys analysis
+## Pattern 2: Uncertainty can cost farmers money and growing time
 
-### 1. Why do farmers experience uncertainty when choosing or growing crops?
+**Evidence**
+- **Log 04 — Avto:** He asks other farmers before trying a new crop because he does not want to waste money.
+- **Log 07 — Chognari-1:** He reported losing 20 young trees, estimated at 8 GEL each, and spending four years working with them.
+- **Log 10 — Manana:** She spent 360 GEL on an unsuccessful first batch of kiwi plants and waited two years without fruit.
 
-They may not know whether a crop will suit their land, how to identify plant problems, or what requirements are necessary for successful production.
+**Five whys**
+1. Why are farmers cautious about new crops or planting materials? The outcome is uncertain.
+2. Why does uncertainty matter? Buying seedlings and maintaining plants requires money and time.
+3. Why can those investments fail? Farmers may not have enough reliable information before purchasing or planting.
+4. Why might they lack that information? Advice and explanations are incomplete, contradictory, or only available after a problem occurs.
+5. Why does this create a significant problem? Farmers can discover an unsuitable choice only after investing resources they cannot easily recover.
 
-**Evidence:** Avto's uncertainty about a new crop, Chognari-1's conflicting diagnoses, and Manana's missing information about kiwi plants.
+**Root-cause hypothesis:** Farmers may have to make costly agricultural decisions before they can verify important information about planting materials and growing requirements.
 
-### 2. Why might they lack the information needed to make these decisions?
+**What remains unproven:** How often these losses occur across farmers and which types of losses are most important to them.
 
-The sources they consult may provide incomplete, conflicting, or insufficiently specific advice.
+## Pattern 3: Farmers rely on a small number of imperfect information sources
 
-**Evidence:** Chognari-1 received different explanations from his neighbor and agro shop. Manana was not told about the plant ratio when she bought the first batch.
+**Evidence**
+- **Log 04 — Avto:** He asks other farmers for advice and tends to grow crops he already knows how to manage.
+- **Log 07 — Chognari-1:** He uses Turkish YouTube videos that he only partly understands, a nearby agricultural shop, and advice from a neighbor.
+- **Log 10 — Manana:** She bought her first kiwi plants from a seller who was the only available source she knew; a second seller later explained the male-to-female plant ratio.
 
-### 3. Why might existing sources fail to provide the information they need?
+**Five whys**
+1. Why do farmers rely on a few familiar sources? Those sources are accessible when they need advice or planting materials.
+2. Why don't they simply use another source? Other sources may be difficult to understand, unavailable, or unfamiliar.
+3. Why does this limit their decisions? They may have little opportunity to compare advice before acting.
+4. Why is comparison important? Different sources may provide incomplete or conflicting information.
+5. Why does that matter? Farmers may have to choose whether to trust a recommendation without being able to verify it.
 
-Farmers may depend on informal advice, sellers, or general online content rather than sources that can verify the advice for a particular crop and local growing conditions.
+**Root-cause hypothesis:** Farmers may lack a convenient way to compare and verify agricultural advice from multiple trustworthy sources.
 
-**Evidence:** Avto mentions online information that does not always apply to his land. Chognari-1 uses partially understood Turkish videos and asks people nearby.
+**What remains unproven:** Whether farmers want a new information source or would prefer better support from existing sources.
 
-**Status:** Possible explanation, not yet confirmed as the cause across farmers.
+## Strongest pattern: Locally relevant information is difficult to verify before acting
 
-### 4. Why might reliable, locally relevant advice be difficult to obtain?
+**Evidence:** Logs 04, 07, and 10.
 
-There may be limited access to experienced growers, trustworthy planting-material suppliers, or experts who can assess the specific situation.
+This is currently the strongest pattern because all three interviews describe uncertainty before or during agricultural decisions, although the specific decisions differ: choosing a new crop, diagnosing damaged trees, and buying kiwi plants. The evidence suggests a broader information problem rather than proving that soil analysis alone is the main need.
 
-**Evidence:** Chognari-1 knows of no local grapefruit grower, while Manana initially bought plants from the only seller she knew who had them.
+**Root-cause hypothesis:** Farmers may lack an accessible way to verify locally relevant crop and planting information before committing money, time, or effort.
 
-**Status:** Hypothesis to investigate. These interviews do not establish how widely available agricultural experts or services are.
+**Next validation questions**
+- What did you last decide to plant, buy, or treat, and how did you make that decision?
+- Which information did you check before acting?
+- What would make you trust a recommendation?
+- Have you paid for advice or lost money because information was missing or incorrect?
 
-### 5. Why does this matter to farmers?
-
-Crop-related decisions can involve substantial investments of money and time. If the information is incomplete, farmers may lose plants, wait years for a harvest that does not come, or choose crops that are not financially worthwhile.
-
-**Evidence:** Manana's 360 GEL first batch and two years without fruit; Chognari-1's lost trees and uncertainty about the cause; his concern about low mandarin prices.
-
-## Root-cause hypothesis
-
-Farmers may lack a dependable way to verify important crop-related decisions before committing money and time. The information gap could concern crop suitability, planting-material quality, growing requirements, plant diagnosis, or profitability.
-
-This is a hypothesis, not a proven root cause. The interviews do not yet show that soil analysis is the main missing service.
-
-## What we still need to learn
-
-1. Which decisions are most difficult: selecting a crop, choosing seedlings, understanding growing requirements, diagnosing plant problems, or finding a profitable market?
-2. How do farmers check whether advice or planting materials are trustworthy?
-3. What happens the last time they faced one of these problems?
-4. What services do they currently use, and do they pay for advice, soil testing, or other agricultural support?
-5. Would a more reliable source of information change their decisions, or are other constraints more important?
-
-## Next interviews
-
-- **Zurab:** Ask about the last time he diagnosed a crop problem and how he reached his conclusion.
-- **Woman seller in Racha:** Ask about problems customers experience after buying plants and how she helps them.
-- **Another farmer who tried a new crop:** Ask where they got advice, what they spent, and what happened.
-
-Start with past behavior rather than pitching Nergi or asking whether someone would use an app.
-
-## Decision
-
-The interviews support investigating unreliable or incomplete crop-related information as a possible problem. They do not yet prove that soil analysis, an agricultural database, or a digital platform is the right solution.
-
-The next step is to establish which information gap is most frequent and costly, what farmers already do to solve it, and whether they are willing to pay for a better alternative.
+**Decision:** Continue investigating the need for trustworthy, locally relevant agricultural guidance. Do not assume yet that a soil-analysis app is the solution.
