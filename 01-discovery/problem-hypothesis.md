@@ -98,7 +98,7 @@ For each problem, answer one question in one line: **What do you think is the re
 - [ ] The "we are wrong if" lines are copied to the top of the script and every log
 
 ## After interviews
-**Problem 1 verdict:** weakened · **Evidence:** 01-discovery/interview-logs/01-neighbor-nino.md (no trustworthy advice, about 800 lari), 07-grower-chognari.md (only after we asked; the new crop came from a bad mandarin price), 10-farmer-racha.md (only after we asked; the loss started at the seedlings)
-**Problem 2 verdict:** weakened · **Evidence:** 01-discovery/interview-logs/02-homeowner-irakli.md (plumber late and the job failed; the electrician came on time), 08-tenant-saburtalo.md (only after we asked; the price jump mattered more than being late), 11-homeowner-rustavi.md (only after we asked; the electrician was on time, and the doubt was whether the fix was safe)
-**Problem 3 verdict:** weakened · **Evidence:** 01-discovery/interview-logs/03-student-ana.md (about four weeks, nearly sent 100 lari), 09-student-zugdidi.md (only after we asked; almost three weeks and 100 lari gone), 12-student-kutaisi.md (only after we asked; no money lost, the block was having no local person to vouch)
-**Problem we keep:** [problem] · recorded in `DECISIONS.md`
+**Problem 1 verdict:** weakened · **Evidence:** 01-discovery/interview-logs/01-neighbor-nino.md (no trustworthy advice, about 800 lari), 07-grower-chognari.md (only after we asked; the new crop came from a bad mandarin price), 10-farmer-racha-manana.md (only after we asked; the loss started at the seedlings)
+**Problem 2 verdict:** weakened · **Evidence:** 01-discovery/interview-logs/02-homeowner-irakli.md (plumber late and the job failed; the electrician came on time), 08-tenant-saburtalo.md (only after we asked; the price jump mattered more than being late), 11-homeowner-rustavi-levan.md (only after we asked; the electrician was on time, and the doubt was whether the fix was safe)
+**Problem 3 verdict:** weakened · **Evidence:** 01-discovery/interview-logs/03-student-ana.md (about four weeks, nearly sent 100 lari), 09-student-zugdidi.md (only after we asked; almost three weeks and 100 lari gone), 12-student-kutaisi-lasha.md (only after we asked; no money lost, the block was having no local person to vouch)
+**Problem we keep:** Problem 1, growing a new crop in the village · recorded in `DECISIONS.md`
