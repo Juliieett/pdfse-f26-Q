@@ -33,10 +33,13 @@ For each problem, answer one question in one line: **What do you think is the re
 - Problem 2, repairman: Repairmen are found by word of mouth, so a bad one costs the customer money and the repairman loses nothing.
 - Problem 3, student flat: Students search from far away with no way to tell real listings from fake ones, so they pay before they know what they are getting.
 
-### Giorgi (@Giorgi1207)
-- Problem 1, new crop:
-- Problem 2, repairman:
-- Problem 3, student flat:
+### Giorgi
+
+1. Problem 1, *Growing a new crop in the village:* Seeds and seedlings for a new crop are hard to find locally, so farmers buy from whoever has them, often without knowing if the variety suits their climate.
+
+2. Problem 2, *Finding a reliable repairman:* Many repairmen have no real training, they learned on the job, so they fix the symptom instead of the cause and the problem comes back.
+
+3. Problem 3, *Finding a flat to rent as an out-of-town student:* Landlords prefer tenants they already know or who have local guarantors, so students from other towns get turned down or are offered the worst flats.
 
 ---
 
