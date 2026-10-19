@@ -3,9 +3,11 @@
 **Date:** [17.10.2026] · **Asker:** Juli ch · **Logger:** Giorgi · **Consent:** yes, notes  
 **Real or practice:** Real
 
-**Context:** Local farmer who grows crops for income. He mainly grows familiar crops but has considered planting something new, such as orange. Practice interview.
+**Context:** Local farmer who grows crops for income. He mainly grows familiar crops but has considered planting something new, such as orange. 
 
 **Our prediction:** We are wrong if villagers who tried a new crop say they easily found the advice they needed (a neighbor, an agro shop, or online) before planting.
+
+“The prediction is partially supported. Avto relies on other farmers and online information, but says that online advice does not always fit his land. Further investigation is needed to understand whether he has previously tried a new crop and what happened.”
 
 **Quotes** (Georgian as spoken; English beside it; ★ = surprise)
 
