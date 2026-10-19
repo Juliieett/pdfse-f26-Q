@@ -106,3 +106,25 @@ back through 200 messages to work out who had sent money, since many
 wrote "sent" without a name or amount. Two parents were asked twice.
 COST I can name: 40 minutes of checking, 4 of 24 parents unclear on
 whether they had paid, and 2 awkward private messages to sort it out
+
+AUTHOR: [Sandro]
+WHO I watched: my neighbor in the village, who wants to start growing
+strawberries
+STRUGGLE I saw: nobody in the village has grown strawberries before,
+so there is nobody nearby to ask how to plant them or what to do when
+something goes wrong
+COST I can name: money on seedlings and supplies, and part of the
+first harvest, if the first season goes wrong
+
+AUTHOR: [Sandro]
+WHO I watched: family and friends who needed a plumber or electrician
+STRUGGLE I saw: the repairman said "I'll come tomorrow" and did not
+show up, or did the job badly so it had to be done and paid for again
+COST I can name: days without water or electricity, and paying twice
+for the same repair
+
+AUTHOR: [Sandro]
+WHO I watched: classmates from other towns looking for a flat to rent
+STRUGGLE I saw: spent weeks calling numbers and searching Facebook
+groups for a flat, and some lost a deposit
+COST I can name: weeks of searching, and a lost deposit for some of them
