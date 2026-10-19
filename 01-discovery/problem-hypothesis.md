@@ -2,18 +2,21 @@
 
 Committed **before our first real interview**. The commit date is our proof.
 
-We are testing three problems from the pool (Sandro's three in `00-foundation/problem-pool.md`). Interviews decide which one we keep; the pick goes in `DECISIONS.md`.
+## The three problems we chose
+
+We chose these three problems from `00-foundation/problem-pool.md` (Sandro's entries) and the team works on all three. We interview people about each one; the interviews decide which one we keep, and the pick goes in `DECISIONS.md`.
+
+1. **Growing a new crop in the village:** a villager wants to grow something new (our neighbor, strawberries), but nobody nearby has grown it before, so there is nobody to learn from or ask when something goes wrong.
+2. **Finding a reliable repairman:** a plumber or electrician says "I'll come tomorrow" and does not show up, or does the job badly, so it has to be done and paid for twice.
+3. **Finding a flat to rent as an out-of-town student:** students from other towns spend weeks calling numbers and searching Facebook groups for a flat, and some lose a deposit.
 
 ---
 
 ## Step 1: What each of us believes
 
-**Teammates:** `git pull` first. Fill in **only your own block**, one line per problem: what you think the real cause is. Write it yourself before reading the others. Then commit and push right away, before anyone starts interviewing.
+**Teammates:** `git pull` first. Fill in **only your own block**. Write it yourself before reading the others. Then commit and push right away, before anyone starts interviewing.
 
-Ideas to pick from or rewrite (try to pick different ones from each other):
-- **Problem 1, new crop:** A. nobody nearby has experience to ask when something goes wrong · B. advice online or from the agro shop does not fit local soil and weather · C. they do not know if they can sell the harvest, so they are afraid to invest · D. seedlings and supplies are expensive and one bad season loses it all
-- **Problem 2, repairman:** A. you cannot know in advance who is reliable; recommendations are random · B. repairmen take too many jobs and skip the small ones · C. the price changes after the job starts and nothing is written down · D. when a job is done badly there is no way to make him come back and fix it
-- **Problem 3, student flat:** A. students cannot see the flat in person because they live in another town · B. listings are spread over many Facebook groups, so searching takes weeks · C. fake listings and landlords who take a deposit and disappear · D. landlords do not want to rent to students
+For each problem, answer one question in one line: **What do you think is the real cause of this problem?**
 
 ### Juli (@Juliieett)
 - Problem 1, new crop:
