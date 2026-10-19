@@ -1,144 +1,77 @@
 # Affinity Map
 
-Quotes below are from logs whose prediction check is established. Logs 04, 05, and 06 say the interview is not established, so their answers are not in a cluster.
+Quotes below are from logs whose prediction check is established. Logs 04, 05, and 06 say the interview is not established, so their answers are not in a cluster. Pattern sentences match `patterns-analysis.md`.
 
-## Interview sources
+## Pattern 1
 
-- **Interview 04 — Avto:** Local farmer considering growing a new crop.
-- **Interview 07 — Chognari-1:** Mandarin grower considering grapefruit in Chognari.
-- **Interview 10 — Manana:** Kiwi grower in Shukhuti.
+**Pattern (a sentence that says what the evidence shows, not a one-word topic):** When the plants look wrong, the people nearby name different causes, and the grower cannot tell which person knows.
 
-## Pattern 1: Farmers struggle to find reliable advice that fits their land and growing conditions.
+**Interviews behind it (2 minimum):** 01, 07
 
-### Interview 04 — Avto
+**Quotes (verbatim, each tagged with its log number):**
+- "ყველა სხვადასხვას მეუბნება." / "Everyone says something different." (01)
+- "მეზობლებმა მხოლოდ ის მითხრეს, რომ რთულია და ლპება." / "The neighbors only said it's hard, they rot." (01)
+- "ვერ ვხვდები, ვინ იცის." / "I can't tell who knows." (01)
+- "ზურაბმა თქვა, ყინვააო. მერე სხვამ თქვა, არა, სოკოაო ან ობიაო. ახლაც არ ვიცი რომელია." / "Zurab said it's the frost. Then another guy said no, it's fungus. I still don't know which one." (07)
+- "ჭოგნარში არავის არ აქვს, როგორც მე ვიცი." / "Nobody in Chognari has it, I'd know." (07)
 
-> „ახალი კულტურის დარგვა მინდა, მაგრამ არ ვიცი, ჩემს მიწაზე რამდენად გაამართლებს.“
+## Pattern 2
 
-“I want to plant a new crop, but I don't know how well it will do on my land.”
+**Pattern:** The person who sells the plants is also the person who explains them, and the buyer cannot tell what they bought until the plants fail.
 
-> “ინტერნეტში ინფორმაცია არის, მაგრამ ყველა რჩევა ჩემს მიწას არ ერგება.”
+**Interviews behind it:** 01, 07, 10
 
-“There is information online, but not every piece of advice suits my land.”
+**Quotes:**
+- The agro shop sold her the seedlings and told her to water a lot. She suspects that advice was wrong. This is the surprise line in log 01, not a separate quote. (01)
+- "ნერგს შეგიკვეთავო, ოღონდ არ ვიცი აქ რომელი გაიხარებსო." / "He said he can order seedlings, but he doesn't know which kind will hold here." (07)
+- "მხოლოდ მას ჰქონდა" / "He was the only one who had them." (10)
+- "ვერც გავიგე რას ვყიდულობდი სანამ უნაყოფო გამოდგა" / "I had no way to know what I was buying until nothing grew fruit." (10)
+- "შეფარდებებზე არავის უსაუბრია ჩვენთან" / "Nobody told us the ratio." (10)
 
-### Interview 07 — Chognari-1
+## Pattern 3
 
-> „ნერგს შეგიკვეთავო, ოღონდ არ ვიცი აქ რომელი გაიხარებსო.“
+**Pattern:** The money and the season are already spent before anyone can say the advice was wrong.
 
-“He said he can order seedlings, but he doesn't know which kind will hold here.”
+**Interviews behind it:** 01, 07, 10
 
-> „ზურაბმა თქვა, ყინვააო. მერე სხვამ თქვა, არა, სოკოაო ან ობიაო. ახლაც არ ვიცი რომელია.“
+**Quotes:**
+- "დაახლოებით 800 ლარი დამიჯდა. მესამედი მოკვდა, მარწყვის ნახევარი დალპა." / "About 800 lari. A third of the plants died, maybe half the berries rotted." (01)
+- Cost line in the log, not a quote: 20 young trees lost, about 8 lari each, and four years of growth. (07)
+- "ორი წელი ტყუილად ველოდებოდით" / "We waited two years for nothing." (10)
+- Cost line in the log: 360 lari for the first batch, 200 lari for the second. (10)
 
-“Zurab said it's the frost. Then another guy said no, it's fungus. I still don't know which one.”
+## Pattern 4
 
-### Interview 10 — Manana
+**Pattern:** Once the repairman is in the house, they pay the higher price and do not argue, because they need the water back.
 
-> „შეფარდებებზე არავის უსაუბრია ჩვენთან“
+**Interviews behind it:** 02, 08
 
-“Nobody told us the ratio.”
+**Quotes:**
+- "გავბრაზდი, მაგრამ არ ვიდავე, წყალი მჭირდებოდა." / "I was angry, but I didn't argue, I needed the water back." (02)
+- "დაახლოებით 50 თქვა, მერე ნაწილი ცალკეაო და 80 გახდა." / "He said around 50, then the part was extra and it became 80." (02)
+- "ტელეფონზე 30 თქვა, მოვიდა და გახდა 50, მასალააო. მივეცი რა." / "He said 30 on the phone, he came and it became 50, 'materials.' I just paid." (08)
+- "შენს სამზარეულოში დგას, 20 ლარზე ვინ აპირებს კინკლაობას." / "He's standing in your kitchen, who's going to argue over 20 lari." (08)
 
-**Finding:** Across the interviews, farmers describe uncertainty about crop suitability, plant problems, or the requirements for successful growing.
+## Pattern 5
 
-## Pattern 2: Missing or insufficient information can result in wasted money and time.
+**Pattern:** An out-of-town student spends weeks calling listings that are still posted after the flat is taken, and sometimes the deposit is gone.
 
-### Interview 04 — Avto
+**Interviews behind it:** 03, 09
 
-> „ჯერ სხვა ფერმერებს ვეკითხები ხოლმე, რადგან არ მინდა ფული ტყუილად დავხარჯო.“
+**Quotes:**
+- "პოსტი ისევ იდო, ორი კვირის იყო." / "The post was still up, and it was two weeks old." (03)
+- "თითქმის ოთხი კვირა ყოველ საღამოს ვეძებდი." / "Almost four weeks of evenings searching." (03)
+- "ერთმა მეპატრონემ მთხოვა 100 ლარი გადამერიცხა,ბეს სახით." / "One landlord asked me to transfer 100 lari to hold it for me." (03)
+- "ერთი და იგივე ბინა სამჯერ არის დადებული, სხვადასხვა დღეს." / "The same flat is posted three times, on different days." (09)
+- "100 ლარი წავიდა. დედას ერთი კვირის მერე ვუთხარი, ძალიან გაბრაზდა." / "The 100 lari is gone. I told my mom a week later, she got very angry." (09)
 
-“I usually ask other farmers first because I don't want to waste money.”
-
-### Interview 07 — Chognari-1
-
-> „შარშან მანდარინი იაფი იყო, აბა რა გითხრა.“
-
-“Last year the mandarin was cheap, what can I say.”
-
-- Lost 20 young mandarin trees, worth approximately 8 GEL each.
-- Received conflicting explanations about whether frost or a fungal problem caused the damage.
-- The loss also represented four years of growing time.
-
-### Interview 10 — Manana
-
-> „ვერც გავიგე რას ვყიდულობდი სანამ უნაყოფო გამოდგა“
-
-“I had no way to know what I was buying until nothing grew fruit.”
-
-> „ორი წელი ტყუილად ველოდებოდით“
-
-“We waited two years for nothing.”
-
-- First batch of kiwi plants cost 360 GEL.
-- Second batch cost 200 GEL.
-- The first batch failed to produce fruit, resulting in two years of wasted waiting.
-
-**Finding:** Inadequate information can expose farmers to financial losses and wasted growing time. The interviews show different possible causes, including unclear plant requirements and uncertainty about plant damage.
-
-## Pattern 3: Farmers depend on a limited number of people and sources for information.
-
-### Interview 04 — Avto
-
-> „ძირითადად ის კულტურები მომყავს, რომელთა მოვლაც უკვე კარგად ვიცი.“
-
-“I mainly grow crops that I already know how to take care of.”
-
-> „ჯერ სხვა ფერმერებს ვეკითხები ხოლმე, რადგან არ მინდა ფული ტყუილად დავხარჯო.“
-
-“I usually ask other farmers first because I don't want to waste money.”
-
-### Interview 07 — Chognari-1
-
-- Watches Turkish YouTube videos that he only partly understands.
-- Asks a nearby agro shop for advice.
-- Asks his neighbor Zurab.
-- Received conflicting explanations from the agro shop and his neighbor about the same damaged leaves.
-
-### Interview 10 — Manana
-
-> „მხოლოდ მას ჰქონდა“
-
-“He was the only one who had them.”
-
-- Bought the first batch of kiwi plants from a seller who arrived with a truck.
-- Bought a second batch from a woman seller who explained the male/female plant ratio.
-
-**Finding:** Farmers rely on available sellers, neighbors, and online sources. The reliability and usefulness of these sources may vary.
 ## Not yet a pattern
 
-The following observations are important but do not yet establish independent patterns across multiple interviews.
+Quotes that stand alone so far (one interview).
 
-### Crop profitability and market prices — Interview 07
-
-> „შარშან მანდარინი იაფი იყო, აბა რა გითხრა.“
-
-“Last year the mandarin was cheap, what can I say.”
-
-Chognari-1's interest in trying grapefruit may be connected to low mandarin prices. More interviews are needed to establish whether choosing profitable crops is a recurring problem.
-
-### Understanding plant diseases — Interview 07
-
-Chognari-1 received conflicting explanations about whether damaged mandarin leaves were affected by frost or a fungal problem. This may indicate a need for more reliable plant diagnosis, but only one interview currently supports this observation.
-
-### Seedling quality and plant requirements — Interview 10
-
-> „ვერც გავიგე რას ვყიდულობდი სანამ უნაყოფო გამოდგა“
-
-“I had no way to know what I was buying until nothing grew fruit.”
-
-Manana's experience suggests that buyers may lack important information about seedlings before purchasing them. Further interviews should establish how common this problem is and whether it affects other crops.
-### Local availability of planting material — Interview 10
-
-> „მხოლოდ მას ჰქონდა“
-
-“He was the only one who had them.”
-
-Manana's limited access to kiwi plants may have influenced where she bought them. More evidence is needed to determine whether limited supplier choice is a recurring problem.
-## Additional observations
-
-- **Crop profitability:** Chognari-1's interest in grapefruit followed a period of low mandarin prices. The underlying problem may involve choosing a profitable crop, not only growing it.
-- **Access to planting material:** Manana's experience suggests that access to trustworthy seedlings and accurate product information may be as important as advice about cultivation.
-- **Different information needs:** Farmers may need help choosing crops, verifying seedlings, understanding growing requirements, diagnosing plant problems, or evaluating profitability.
-
-## Initial synthesis
-
-The interviews suggest that farmers face uncertainty when making crop-related decisions and may not have access to sufficiently reliable, locally relevant information. Poor decisions can cost money and growing time.
-
-However, the evidence does not yet establish that soil analysis is the central problem or that an app is the right solution. Further interviews should identify which information gaps occur most often, how farmers currently address them, and whether they already pay for reliable advice or services.
+- "გაყიდვაც თავის ტკივილია, მაგრამ ის თავის ტკივილი ვიცი." / "Selling is a headache too, but I know that headache." Only after she was asked. (01)
+- "რთული ტელეფონის რამეები არ მომიტანოთ." / "Don't bring me a complicated phone thing." (01)
+- "შარშან მანდარინი იაფი იყო, აბა რა გითხრა." / "Last year the mandarin was cheap, what can I say." The grapefruit idea came from the price. (07)
+- "ვიდეოები უმეტესად პოლონეთიდან ან თურქეთიდანაა, ნიადაგიც და ამინდიც სხვაა." / "The videos are mostly from Poland or Turkey, the soil and weather are different." (01)
+- "დიდი ავტომატია, სადენები კი იგივეა, ეს შეიძლება დაიწვას." / "Bigger breaker, the wires are the same, that can burn." His son said this. (11)
+- "ბიძის გარეშე არამგონია" / "Without the uncle, I don't think he would've." No money lost. The block was a local person to vouch. (12)
