@@ -19,9 +19,11 @@ We chose these three problems from `00-foundation/problem-pool.md` (Sandro's ent
 For each problem, answer one question in one line: **What do you think is the real cause of this problem?**
 
 ### Juli (@Juliieett)
-- Problem 1, new crop:
-- Problem 2, repairman:
-- Problem 3, student flat:
+
+- Problem 1. *Growing a new crop in the village:* A new crop needs different soil, water and timing than what the farmer already knows, and nobody tells them this until the plants are already sick or dead.
+- Problem 2. *Finding a reliable repairman:* Good repairmen are so busy that they say "I'll come tomorrow" to everyone, so they overbook and customers are left waiting with no water or light.
+- Problem 3. *Finding a flat to rent as an out-of-town student:* Students don't know the city, so they can't tell a good neighborhood or fair price from a bad one, and they take the first flat that looks okay.
+
 
 ### Davit (@zidhartha)
 - Problem 1, new crop: The farmer can't know before planting whether anyone will buy the new crop, so a failed first season costs money that is hard to get back.
@@ -33,10 +35,13 @@ For each problem, answer one question in one line: **What do you think is the re
 - Problem 2, repairman: Repairmen are found by word of mouth, so a bad one costs the customer money and the repairman loses nothing.
 - Problem 3, student flat: Students search from far away with no way to tell real listings from fake ones, so they pay before they know what they are getting.
 
-### Giorgi (@Giorgi1207)
-- Problem 1, new crop:
-- Problem 2, repairman:
-- Problem 3, student flat:
+### Giorgi
+
+1. Problem 1, *Growing a new crop in the village:* Seeds and seedlings for a new crop are hard to find locally, so farmers buy from whoever has them, often without knowing if the variety suits their climate.
+
+2. Problem 2, *Finding a reliable repairman:* Many repairmen have no real training, they learned on the job, so they fix the symptom instead of the cause and the problem comes back.
+
+3. Problem 3, *Finding a flat to rent as an out-of-town student:* Landlords prefer tenants they already know or who have local guarantors, so students from other towns get turned down or are offered the worst flats.
 
 ---
 
