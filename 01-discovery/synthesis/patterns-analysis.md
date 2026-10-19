@@ -1,72 +1,65 @@
-# Patterns Analysis — Week 4
+# Patterns Analysis
 
-## Pattern 1: Farmers struggle to find advice that fits their local conditions
+One section per pattern from `affinity-map.md`. The next why stops when it would be a guess.
 
-**Evidence**
-- **Log 04 — Avto:** “I want to plant a new crop, but I don't know how well it will do on my land.”
-- **Log 04 — Avto:** “There is information online, but not every piece of advice suits my land.”
-- **Log 07 — Chognari-1:** The seller could order grapefruit seedlings but could not say which variety would grow successfully in the area.
-- **Log 07 — Chognari-1:** Different people gave conflicting explanations for damaged mandarin trees.
+## Pattern 1: When the plants look wrong, the people nearby name different causes, and the grower cannot tell which person knows.
 
-**Five whys**
-1. Why do farmers hesitate when making crop decisions? They are unsure whether a crop or treatment will work in their situation.
-2. Why are they unsure? The advice they receive does not always address their land or local growing conditions.
-3. Why doesn't the advice address those conditions? Their sources may provide general guidance or personal opinions rather than locally relevant recommendations.
-4. Why do they depend on those sources? They have limited evidence to compare before making a decision.
-5. Why is this a problem? They cannot confidently assess a recommendation before acting on it.
+**Interviews behind it:** 01, 07
 
-**Root-cause hypothesis:** Farmers may lack accessible, trustworthy guidance that accounts for local growing conditions.
+1. Why does this happen? The people they can ask have not grown that crop. Nobody on Nino's street had grown strawberries (01). Nobody in Chognari has grapefruit (07).
+2. Why that? Those people answer anyway. The neighbors told her the berries rot (01). Zurab said frost, and the shop said fungus, about the same photo (07).
+3. Why that? Nothing in the conversation shows which speaker has grown it. "I can't tell who knows." (01)
 
-**What remains unproven:** Whether farmers would trust a digital tool more than experienced local farmers or agricultural specialists.
+**Root cause, one sentence:** The only people nearby have not grown the crop, so two answers can both sound possible. (01, 07)
 
-## Pattern 2: Uncertainty can cost farmers money and growing time
+**Which of the answers above is a guess rather than a quote?** That a specialist somewhere nearby would have settled it. No log says they looked for one and failed.
 
-**Evidence**
-- **Log 04 — Avto:** He asks other farmers before trying a new crop because he does not want to waste money.
-- **Log 07 — Chognari-1:** He reported losing 20 young trees, estimated at 8 GEL each, and spending four years working with them.
-- **Log 10 — Manana:** She spent 360 GEL on an unsuccessful first batch of kiwi plants and waited two years without fruit.
+## Pattern 2: The person who sells the plants is also the person who explains them, and the buyer cannot tell what they bought until the plants fail.
 
-**Five whys**
-1. Why are farmers cautious about new crops or planting materials? The outcome is uncertain.
-2. Why does uncertainty matter? Buying seedlings and maintaining plants requires money and time.
-3. Why can those investments fail? Farmers may not have enough reliable information before purchasing or planting.
-4. Why might they lack that information? Advice and explanations are incomplete, contradictory, or only available after a problem occurs.
-5. Why does this create a significant problem? Farmers can discover an unsuitable choice only after investing resources they cannot easily recover.
+**Interviews behind it:** 01, 07, 10
 
-**Root-cause hypothesis:** Farmers may have to make costly agricultural decisions before they can verify important information about planting materials and growing requirements.
+1. Why does this happen? The seedlings come from the same person who talks about how to grow them. The shop sold Nino the plants and told her to water a lot (01). The shop can order grapefruit and cannot say which kind will hold (07). Manana's seller was the only one who had kiwi (10).
+2. Why that? At the moment of paying, the fruit is not there to check. "I had no way to know what I was buying until nothing grew fruit." (10). "Nobody told us the ratio." (10)
 
-**What remains unproven:** How often these losses occur across farmers and which types of losses are most important to them.
+**Root cause, one sentence:** They learn the plants were the wrong ones only after the money is spent, because the seller was the explanation. (01, 10)
 
-## Pattern 3: Farmers rely on a small number of imperfect information sources
+**Which of the answers above is a guess rather than a quote?** That the sellers know the advice is bad when they give it. The logs show the buyer cannot check. They do not show what the seller knew.
 
-**Evidence**
-- **Log 04 — Avto:** He asks other farmers for advice and tends to grow crops he already knows how to manage.
-- **Log 07 — Chognari-1:** He uses Turkish YouTube videos that he only partly understands, a nearby agricultural shop, and advice from a neighbor.
-- **Log 10 — Manana:** She bought her first kiwi plants from a seller who was the only available source she knew; a second seller later explained the male-to-female plant ratio.
+## Pattern 3: The money and the season are already spent before anyone can say the advice was wrong.
 
-**Five whys**
-1. Why do farmers rely on a few familiar sources? Those sources are accessible when they need advice or planting materials.
-2. Why don't they simply use another source? Other sources may be difficult to understand, unavailable, or unfamiliar.
-3. Why does this limit their decisions? They may have little opportunity to compare advice before acting.
-4. Why is comparison important? Different sources may provide incomplete or conflicting information.
-5. Why does that matter? Farmers may have to choose whether to trust a recommendation without being able to verify it.
+**Interviews behind it:** 01, 07, 10
 
-**Root-cause hypothesis:** Farmers may lack a convenient way to compare and verify agricultural advice from multiple trustworthy sources.
+1. Why does this happen? They pay before the first harvest. About 800 lari, then a third of the plants died (01). 360 lari, then two years with no fruit (10).
+2. Why that? The failure shows up a season later, not at the shop. Gray spots and soft berries in spring (01). Fruit only in year 4 (10). Twenty trees and four years of growth (07).
 
-**What remains unproven:** Whether farmers want a new information source or would prefer better support from existing sources.
+**Root cause, one sentence:** The cost is paid up front, and the proof arrives a season later. (01, 10)
 
-## Strongest pattern: Locally relevant information is difficult to verify before acting
+**Which of the answers above is a guess rather than a quote?** That they would have refused the purchase if someone had warned them that day. No log shows that choice.
 
-**Evidence:** Logs 04, 07, and 10.
+## Pattern 4: Once the repairman is in the house, they pay the higher price and do not argue, because they need the water back.
 
-This is currently the strongest pattern because all three interviews describe uncertainty before or during agricultural decisions, although the specific decisions differ: choosing a new crop, diagnosing damaged trees, and buying kiwi plants. The evidence suggests a broader information problem rather than proving that soil analysis alone is the main need.
+**Interviews behind it:** 02, 08
 
-**Root-cause hypothesis:** Farmers may lack an accessible way to verify locally relevant crop and planting information before committing money, time, or effort.
+1. Why does this happen? The quote changes after he arrives, and the water is already a problem. 50 became 80 (02). 30 became 50 (08).
+2. Why that? Arguing feels worse than the extra money while he is standing there. "I needed the water back." (02). "Who's going to argue over 20 lari." (08)
 
-**Next validation questions**
-- What did you last decide to plant, buy, or treat, and how did you make that decision?
-- Which information did you check before acting?
-- What would make you trust a recommendation?
-- Have you paid for advice or lost money because information was missing or incorrect?
+**Root cause, one sentence:** The leverage is gone once the job has started in the house. (02, 08)
 
-**Decision:** Continue investigating the need for trustworthy, locally relevant agricultural guidance. Do not assume yet that a soil-analysis app is the solution.
+**Which of the answers above is a guess rather than a quote?** That a written price would have changed what they paid. Neither log shows a written price.
+
+## Pattern 5: An out-of-town student spends weeks calling listings that are still posted after the flat is taken, and sometimes the deposit is gone.
+
+**Interviews behind it:** 03, 09
+
+1. Why does this happen? The post stays up. A two-week-old post for a flat already rented (03). The same flat posted three times (09).
+2. Why that? She is not in the city to see it, so the call is the check. Almost four weeks of evenings (03). About 15 calls in almost three weeks, and 100 lari gone (09).
+
+**Root cause, one sentence:** The listing outlives the vacancy, and the student is calling from another town. (03, 09)
+
+**Which of the answers above is a guess rather than a quote?** That landlords leave the post up on purpose. Log 09 shows the posts. It does not show why they stay up.
+
+---
+
+**Strongest pattern (most interviews, clearest root cause):** Pattern 2. The person who sells the plants is also the person who explains them, and the buyer cannot tell what they bought until the plants fail.
+
+**Why it is the strongest, in two sentences, citing log numbers:** It is in three logs, and two of them raised it without a prompt about advice. Nino's surprise was that the shop sold the seedlings and gave the advice (01). Manana's surprise was that she could not tell what she had bought until the plants did not fruit (10). The Chognari grower said the shop could order seedlings and could not say which kind would hold (07).

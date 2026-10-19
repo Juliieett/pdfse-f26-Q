@@ -37,7 +37,6 @@ Create three simple screens:
 3. **Next steps** — show what to check before spending money, including when expert advice or soil testing may be appropriate.
 
 Use clearly labelled sample content. Do not present unverified recommendations as scientifically validated agricultural advice.
-
 ## 6. Test procedure
 
 1. Recruit a farmer who has experience growing crops or is considering a new crop.

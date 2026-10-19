@@ -39,5 +39,4 @@ These are target interviewee types, not confirmed contacts. The team must identi
 **Current hypothesis:** Small-scale farmers need more reliable, locally relevant information about their soil before making crop-growing decisions.
 
 **To verify:** Whether soil uncertainty is a real, frequent problem; what farmers currently do about it; how much failed decisions cost; and whether they already pay for soil testing or agronomic advice.
-
 **Status:** Initial ICP hypothesis. Revise it after real farmer interviews.
