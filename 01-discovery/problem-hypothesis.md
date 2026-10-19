@@ -29,9 +29,9 @@ For each problem, answer one question in one line: **What do you think is the re
 - Problem 3, student flat:
 
 ### Sandro (@P4ndro)
-- Problem 1, new crop:
-- Problem 2, repairman:
-- Problem 3, student flat:
+- Problem 1, new crop: Farmers only know what they have grown before, so with a new crop nobody around them can tell them what to do, and they learn by losing a season.
+- Problem 2, repairman: Repairmen are found by word of mouth, so a bad one costs the customer money and the repairman loses nothing.
+- Problem 3, student flat: Students search from far away with no way to tell real listings from fake ones, so they pay before they know what they are getting.
 
 ### Giorgi (@Giorgi1207)
 - Problem 1, new crop:
