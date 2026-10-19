@@ -24,9 +24,9 @@ For each problem, answer one question in one line: **What do you think is the re
 - Problem 3, student flat:
 
 ### Davit (@zidhartha)
-- Problem 1, new crop:
-- Problem 2, repairman:
-- Problem 3, student flat:
+- Problem 1, new crop: The farmer can't know before planting whether anyone will buy the new crop, so a failed first season costs money that is hard to get back.
+- Problem 2, repairman: There is no warranty or written price, so when the repair fails or costs more than agreed, the customer has nothing to hold the repairman to.
+- Problem 3, student flat: Listings are not updated after a flat is rented, so students waste weeks calling places that are already taken.
 
 ### Sandro (@P4ndro)
 - Problem 1, new crop: Farmers only know what they have grown before, so with a new crop nobody around them can tell them what to do, and they learn by losing a season.

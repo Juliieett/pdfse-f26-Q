@@ -1,0 +1,2 @@
+Wk2 · Investigate: how parents find a tutor who is free, nearby, and worth keeping · evidence: 00-foundation/problem-pool.md (Dato 1), 00-foundation/four-filters-scorecard.md · runner-up: how car owners choose a mechanic when the advice and the quote both fail · owner: DJ
+Wk4 · Investigate: how growers decide fertilizer and other treatments when they have no current soil test · evidence: DECISIONS.md (Wk2 tutor pick reopened) · runner-up: how parents find a tutor who is free, nearby, and worth keeping · owner: DJ
